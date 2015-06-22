@@ -1,0 +1,3 @@
+#!/bin/bash
+echo Kmsg output: ~/kmsg.txt
+adb pull /proc/last_kmsg ~/kmsg.txt

@@ -1,0 +1,3 @@
+#!/bin/bash
+cd ~/Android/apkstudio/
+./apkstudio.sh

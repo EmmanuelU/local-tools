@@ -1,0 +1,4 @@
+#!/bin/bash
+echo Logcat output: ~/logcat.txt
+cd ~/ManageEngine/OpUtils/bin
+./startOpUtils.sh

@@ -1,0 +1,3 @@
+#!/bin/bash
+echo Logcat output: ~/logcat.txt
+adb logcat $1 > ~/logcat.txt

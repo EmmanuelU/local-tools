@@ -1,0 +1,8 @@
+export PATH=~/Android/bin:$PATH
+export PATH=~/Android/sdk/platform-tools:$PATH
+
+export USE_CCACHE=1
+
+export ARCH=arm
+export SUBARCH=arm
+export CROSS_COMPILE=~/Android/toolchains/arm-eabi-4.7/bin/arm-eabi-

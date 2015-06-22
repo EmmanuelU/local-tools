@@ -1,0 +1,2 @@
+#!/bin/bash
+~/Android/bin/dare1.1/dare -d $1 $2

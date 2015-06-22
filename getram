@@ -1,0 +1,3 @@
+#!/bin/bash
+echo Ram output: ~/raminfo.txt
+adb pull /proc/meminfo ~/raminfo.txt

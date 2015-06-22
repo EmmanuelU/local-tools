@@ -1,0 +1,2 @@
+#!/bin/bash
+perl ~/android/bin/split_bootimg.pl $1
